@@ -1,0 +1,31 @@
+body {
+    color: black;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+} 
+h1 {
+    color: black;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+p.section {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.15em;
+}
+ol {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.15em;
+}
+ul {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.15em;
+}
+.Photo {
+    width: 150px;
+}
