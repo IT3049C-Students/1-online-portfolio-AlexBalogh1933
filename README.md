@@ -26,7 +26,9 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 I should get (20) out of 20 on this assignment.
 
 ## Self-Reflection:
-For a while it was not taking the website right. Like for what ever my updates we getting pushed but th site was not taking them. 
+For a while it was not taking the website right. Like for what ever my updates we getting pushed but th site was not taking them. I'm so confused on how the site gets
+updated. Is there a way to see the site before commiting the change on Visual Studio Code? I keep commiting the change and then checking GitHub Pages and it was not
+updated. 
 
 ### How long it took me to finish this?
 It took me 3 hours becasue of a lot of testing and fixing things. 
