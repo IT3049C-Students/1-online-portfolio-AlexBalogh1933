@@ -1,0 +1,36 @@
+body {
+    background-image: linear-gradient(to left, #0099ec, #a6e329);
+    color: black;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: "Times New Roman", serif;
+    font-size: 1em;
+} 
+h1 {
+    text-shadow: 7px 10px 3px gray;
+    color: black;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-size: 1.7em;
+}
+p.section {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.15em;
+}
+ol {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.15em;
+}
+ul {
+    color: black;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 1.15em;
+}
+.Photo {
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
