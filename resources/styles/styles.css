@@ -30,7 +30,5 @@ ul {
     font-size: 1.15em;
 }
 .Photo {
-    border-radius: 4px;
-    padding: 5px;
-    width: 150px;
+    width: 50px;
 }
