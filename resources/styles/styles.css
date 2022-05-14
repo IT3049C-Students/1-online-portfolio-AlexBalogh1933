@@ -1,5 +1,4 @@
 body {
-    background-color: #0099ec;
     color: black;
     margin-top: 5%;
     margin-left: 5%;
@@ -8,10 +7,7 @@ body {
     font-size: 1em;
 } 
 h1 {
-    text-shadow: 7px 10px 3px gray;
     color: black;
-    padding-left: 1em;
-    padding-right: 1em;
     font-size: 1.7em;
     font-weight: bold;
 }
@@ -31,5 +27,5 @@ ul {
     font-size: 1.15em;
 }
 .Photo {
-    width: 100px;
+    width: 150px;
 }
