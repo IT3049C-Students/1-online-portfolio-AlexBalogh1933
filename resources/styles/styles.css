@@ -1,5 +1,5 @@
 body {
-    background-image: linear-gradient(to left, #0099ec, #a6e329);
+    background-color: #0099ec;
     color: black;
     margin-top: 5%;
     margin-left: 5%;
@@ -13,6 +13,7 @@ h1 {
     padding-left: 1em;
     padding-right: 1em;
     font-size: 1.7em;
+    font-weight: bold;
 }
 p.section {
     color: black;
@@ -20,15 +21,15 @@ p.section {
     font-size: 1.15em;
 }
 ol {
-    color: red;
+    color: black;
     font-family: "Times New Roman", sans-serif;
     font-size: 1.15em;
 }
 ul {
-    color: red;
+    color: black;
     font-family: "Times New Roman", sans-serif;
     font-size: 1.15em;
 }
 .Photo {
-    width: 50px;
+    width: 100px;
 }
